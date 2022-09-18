@@ -12,5 +12,7 @@ def main(args: Array[String]):Unit={
 
   var mat_exp = new match_expr;
   mat_exp.age; //() not given coz void returns, so () can be ommted
+
+  hello_object.hi() // object does not need to instanciate , can direct call
 }
 }
