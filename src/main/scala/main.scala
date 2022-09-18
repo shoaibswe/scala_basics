@@ -15,6 +15,7 @@ def main(args: Array[String]):Unit={
 
 //  hello_object.hi() // object does not need to instanciate , can direct call
 
+  /*
 var x:Int=  funckies.add_fun() //uses default param 10,20
 var y:Int=  funckies.add_fun(3,5) //uses custom param
   println(f"$x+$y="+x+y)
@@ -23,6 +24,8 @@ var y:Int=  funckies.add_fun(3,5) //uses custom param
   println(x+ "+"+ y +"=" +(x+y)) //correct to calculate sum
   println(f"$x+$y="+x+y) //does not sum, just shows value
   println(f"$x+$y="+(x+y)) //correct to calculate sum
-print("Happy Birthday!")
+  */
+
+  print(funckies.AnonymousFun(1,2)) //calling an anonymous fun
 }
 }
