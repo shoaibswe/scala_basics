@@ -8,6 +8,9 @@ def main(args: Array[String]):Unit={
 //  doloop.do_loop()
 
   var fl = new for_loop;
-  fl.forloop()
+//  fl.forloop()
+
+  var mat_exp = new match_expr;
+  mat_exp.age; //() not given coz void returns, so () can be ommted
 }
 }
