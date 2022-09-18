@@ -4,14 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="17f5c41a-7489-408d-a58d-1501cc68461a" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules/scala_basics.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules/scala_basics.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sbt.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sbt.xml" afterDir="false" />
+    <list default="true" id="17f5c41a-7489-408d-a58d-1501cc68461a" name="Changes" comment="do while differencition,&#10;while check copndition 1st the execute,&#10;do while executes fiest then checks condition">
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/scala/for_loop.scala" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/scala/do_while.scala" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/scala/do_while.scala" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/scala/main.scala" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/scala/main.scala" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/scala/while_loop.scala" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/scala/while_loop.scala" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -63,8 +60,16 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1663503110343</updated>
-      <workItem from="1663503115757" duration="1969000" />
+      <workItem from="1663503115757" duration="3394000" />
     </task>
+    <task id="LOCAL-00001" summary="do while differencition,&#10;while check copndition 1st the execute,&#10;do while executes fiest then checks condition">
+      <created>1663513466615</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1663513466615</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -83,5 +88,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+    <MESSAGE value="do while differencition,&#10;while check copndition 1st the execute,&#10;do while executes fiest then checks condition" />
+    <option name="LAST_COMMIT_MESSAGE" value="do while differencition,&#10;while check copndition 1st the execute,&#10;do while executes fiest then checks condition" />
   </component>
 </project>
