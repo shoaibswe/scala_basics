@@ -12,5 +12,12 @@ def ho_fun_calcs (
 
 def ho_fun_calcs_3params(
 a: Double, b: Double, c: Double, fun: (Double, Double) => Double ): Double = fun(fun(a, b),c);
+
+
+  //partially applied function
+var partial_applied_fun = (a:Int, b:Int, c:Int)=>a+b+c;
+var partial_fun = partial_applied_fun(19,20,_:Int); //using own function with optional param
+
+
+//--end
 };
-}
