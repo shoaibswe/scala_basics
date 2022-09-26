@@ -4,7 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="17f5c41a-7489-408d-a58d-1501cc68461a" name="Changes" comment="Higher Order Functions">
+    <list default="true" id="17f5c41a-7489-408d-a58d-1501cc68461a" name="Changes" comment="partially applied function">
+      <change afterPath="$PROJECT_DIR$/src/main/scala/closure.scala" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/scala/funckies.scala" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/scala/funckies.scala" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/scala/main.scala" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/scala/main.scala" afterDir="false" />
@@ -60,7 +61,8 @@
       <option name="presentableId" value="Default" />
       <updated>1663503110343</updated>
       <workItem from="1663503115757" duration="11122000" />
-      <workItem from="1663581192240" duration="2900000" />
+      <workItem from="1663581192240" duration="3588000" />
+      <workItem from="1664166328724" duration="3073000" />
     </task>
     <task id="LOCAL-00001" summary="do while differencition,&#10;while check copndition 1st the execute,&#10;do while executes fiest then checks condition">
       <created>1663513466615</created>
@@ -146,7 +148,14 @@
       <option name="project" value="LOCAL" />
       <updated>1663526858983</updated>
     </task>
-    <option name="localTasksCounter" value="13" />
+    <task id="LOCAL-00013" summary="partially applied function">
+      <created>1663588463022</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1663588463022</updated>
+    </task>
+    <option name="localTasksCounter" value="14" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -173,6 +182,7 @@
     <MESSAGE value="functions" />
     <MESSAGE value="anonymous function" />
     <MESSAGE value="Higher Order Functions" />
-    <option name="LAST_COMMIT_MESSAGE" value="Higher Order Functions" />
+    <MESSAGE value="partially applied function" />
+    <option name="LAST_COMMIT_MESSAGE" value="partially applied function" />
   </component>
 </project>

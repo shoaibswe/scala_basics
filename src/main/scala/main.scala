@@ -1,3 +1,5 @@
+import closure.closure_var
+
 object main {
 def main(args: Array[String]):Unit={
 
@@ -48,6 +50,13 @@ println(ho_fun_add)
   */
 
   //partial fun
-  print(funckies.partial_fun(20))
+/*
+ print(funckies.partial_fun(20))
+*/
+
+
+  //closure
+  closure_var=100; //import closure.closure_var
+  println(closure.closure_add(20));
 }
 }
